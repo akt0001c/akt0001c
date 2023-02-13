@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development in Masai**
 
-- 👨‍💻 All of my projects are available at <a href="https://akt0001c.github.io/">Repositories</a> [https://akt0001c.github.io/](https://akt0001c.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://akt0001c.github.io/">MY Repositories</a>
 
 - 📫 How to reach me **akt00071000@gmail.com**
 
