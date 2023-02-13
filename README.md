@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akt0001c" alt="akt0001c" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 - 🌱 I’m currently learning **Java Backend Development in Masai**
 
 - 👨‍💻 All of my projects are available at <a href="https://akt0001c.github.io/" target="_blank">my Portfolio</a>
