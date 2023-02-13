@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-choubey-09b071239/" target= "_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/akt0001c/akt0001c/blob/main/icons8-linkedin-2-48.png" height="30" width="40" target="_blank" /> Linkedin</a>
+<a href="https://www.linkedin.com/in/ankit-choubey-09b071239/" target= "_blank"> <img align="center" src="https://github.com/akt0001c/akt0001c/blob/main/icons8-linkedin-2-48.png"  height="30" width="40" target="_blank" /> Linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
