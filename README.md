@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ankit Choubey</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<h3 align="center">A passionate ,self motivated Java Backend developer who always ready to take  challenges and gaining some valueable experience from it  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akt0001c&label=Profile%20views&color=0e75b6&style=flat" alt="akt0001c" /> </p>
 
