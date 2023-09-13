@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akt00071000@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1m76iN3TilPN4damYcp9Y-y8HTtEXSoMO/view?usp=sharing" target="_blank">Resume Link</a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/19jpr8frNJys5BmI39ZSLwAGkSn8c_NEh/view?usp=sharing" target="_blank">Resume Link</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
