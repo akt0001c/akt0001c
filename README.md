@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Ankit Choubey</h1>
-<h3 align="center">A passionate ,self motivated Java Backend developer who always ready to take  challenges and gaining some valueable experience from it  </h3>
+<h1 align="center">👋 Hi there! , I'm Ankit Choubey</h1>
+<h3 align="center">  I'm a passionate Java backend developer with a knack for turning ideas into reality. 🚀 My journey in tech has led me to master Java, Spring Boot, and the art of crafting RESTful APIs. 💡 With a strong foundation in HTML, CSS, and JavaScript, I've brought life to 4 to 5 projects that showcase my ability to create innovative solutions and streamline processes. 🛠️ Let's build something incredible together!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akt0001c&label=Profile%20views&color=0e75b6&style=flat" alt="akt0001c" /> </p>
 
