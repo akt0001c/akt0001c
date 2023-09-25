@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://akt0001c.github.io/" target="_blank">my Portfolio</a>
 
-- 📫 How to reach me ** akt00071000@gmail.com **
+- 📫 How to reach me **akt00071000@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/19jpr8frNJys5BmI39ZSLwAGkSn8c_NEh/view?usp=sharing" target="_blank">Resume Link</a> 
 
